@@ -1,0 +1,28 @@
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+venv/
+ENV/
+
+# Model files
+*.pkl
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
